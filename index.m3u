@@ -1,7 +1,7 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="http://epg.it999.ru/epg.xml.gz" 
 
 #EXTINF:-1 group-title="Взрослые" tvg-id="6321" tvg-logo="http://epg.it999.ru/img2/6321.png",Кино 18+ HD
-https://autopilot.catcast.tv/content/40381/index.m3u8
+http://1tvnow.icu:8080/dwayne.usa@hotmail.com/9MGPKFX7XC/159951
 #EXTINF:-1 group-title="Взрослые" tvg-id="2015" tvg-logo="http://epg.it999.ru/img/2015.png",Русская Ночь
 http://46.181.193.122:81/udp/239.255.42.218:1234
 #EXTINF:-1 group-title="Взрослые" tvg-id="2015" tvg-logo="http://epg.it999.ru/img/2015.png",Русская Ночь
